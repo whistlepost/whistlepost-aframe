@@ -1,0 +1,6 @@
+Sling-Initial-Content: SLING-INF/content;path:=/libs/${project.name};overwrite:=true
+Sling-Bundle-Resources: /assets/libs/wp-aframe;path:=/assets
+Automatic-Module-Name: org.mnode.whistlepost.aframe
+Bundle-Name: Whistlepost Extension - Aframe
+Bundle-SymbolicName: org.mnode.whistlepost-aframe
+Bundle-Category: whistlepost
